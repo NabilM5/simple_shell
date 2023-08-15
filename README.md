@@ -9,5 +9,5 @@ Simple Shell is a lightweight interpreter for the UNIX command language. It is d
 
 ## Authors :black_nib:
 
-* Nabil Mouhamech <[NabilM5]https://github.com/NabilM5
-* Mouad Mennioui <[mouad-suuu]https://github.com/mouad-suuu
+* Nabil Mouhamech <[NabilM5](https://github.com/NabilM5)>
+* Mouad Mennioui <[mouad-suuu](https://github.com/mouad-suuu)>
