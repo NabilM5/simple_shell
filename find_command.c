@@ -108,6 +108,7 @@ char *fill_path_dir(char *path)
 /**
  * get_path_dir - Tokenizes a colon-separated list of
  *                directories into a list_s linked list.
+ *
  * @path: The colon-separated list of directories.
  *
  * Return: A pointer to the initialized linked list.
