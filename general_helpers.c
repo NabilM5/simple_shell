@@ -7,7 +7,9 @@ void variable_replacement(char **args, int *exe_ret);
 
 /**
  * free_args - Frees up memory taken by args.
+ *
  * @args: A null-terminated double pointer containing commands/arguments.
+ *
  * @front: A double pointer to the beginning of args.
  */
 void free_args(char **args, char **front)
@@ -54,7 +56,9 @@ char *get_pid(void)
 
 /**
  * get_env_value - Gets the value corresponding to an environmental variable.
+ *
  * @beginning: The environmental variable to search for.
+ *
  * @len: The length of the environmental variable to search for.
  *
  * Return: If the variable is not found - an empty string.
@@ -89,7 +93,9 @@ char *get_env_value(char *beginning, int len)
 
 /**
  * variable_replacement - Handles variable replacement.
+ *
  * @line: A double pointer containing the command and arguments.
+ *
  * @exe_ret: A pointer to the return value of the last executed command.
  */
 void variable_replacement(char **line, int *exe_ret)
